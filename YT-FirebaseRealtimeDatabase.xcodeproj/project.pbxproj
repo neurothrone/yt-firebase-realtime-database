@@ -14,6 +14,7 @@
 		2F25F17628FE44AB00AFB8AC /* FirebaseDatabase in Frameworks */ = {isa = PBXBuildFile; productRef = 2F25F17528FE44AB00AFB8AC /* FirebaseDatabase */; };
 		2F25F17828FE44AB00AFB8AC /* FirebaseDatabaseSwift in Frameworks */ = {isa = PBXBuildFile; productRef = 2F25F17728FE44AB00AFB8AC /* FirebaseDatabaseSwift */; };
 		2F25F17A28FE456B00AFB8AC /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 2F25F17928FE456B00AFB8AC /* GoogleService-Info.plist */; };
+		2F25F17D28FE4F6300AFB8AC /* LICENSE in Resources */ = {isa = PBXBuildFile; fileRef = 2F25F17C28FE4F6300AFB8AC /* LICENSE */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		2F25F16D28FE443B00AFB8AC /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		2F25F17928FE456B00AFB8AC /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
 		2F25F17B28FE489700AFB8AC /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		2F25F17C28FE4F6300AFB8AC /* LICENSE */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -42,6 +44,7 @@
 		2F25F15A28FE443A00AFB8AC = {
 			isa = PBXGroup;
 			children = (
+				2F25F17C28FE4F6300AFB8AC /* LICENSE */,
 				2F25F17B28FE489700AFB8AC /* README.md */,
 				2F25F16528FE443A00AFB8AC /* YT-FirebaseRealtimeDatabase */,
 				2F25F16428FE443A00AFB8AC /* Products */,
@@ -143,6 +146,7 @@
 			files = (
 				2F25F16E28FE443B00AFB8AC /* Preview Assets.xcassets in Resources */,
 				2F25F16B28FE443B00AFB8AC /* Assets.xcassets in Resources */,
+				2F25F17D28FE4F6300AFB8AC /* LICENSE in Resources */,
 				2F25F17A28FE456B00AFB8AC /* GoogleService-Info.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
