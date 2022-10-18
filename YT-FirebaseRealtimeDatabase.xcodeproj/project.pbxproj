@@ -42,6 +42,7 @@
 		2F25F15A28FE443A00AFB8AC = {
 			isa = PBXGroup;
 			children = (
+				2F25F17B28FE489700AFB8AC /* README.md */,
 				2F25F16528FE443A00AFB8AC /* YT-FirebaseRealtimeDatabase */,
 				2F25F16428FE443A00AFB8AC /* Products */,
 			);
@@ -63,7 +64,6 @@
 				2F25F16828FE443A00AFB8AC /* ContentView.swift */,
 				2F25F16A28FE443B00AFB8AC /* Assets.xcassets */,
 				2F25F16C28FE443B00AFB8AC /* Preview Content */,
-				2F25F17B28FE489700AFB8AC /* README.md */,
 			);
 			path = "YT-FirebaseRealtimeDatabase";
 			sourceTree = "<group>";
